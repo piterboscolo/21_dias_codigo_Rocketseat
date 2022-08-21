@@ -15,7 +15,7 @@
  `Dia 5` ✔️
  Criar uma página que exiba o erro 404
  
- `Dia 6` 
+ `Dia 6` ✔️
  Criar um Card com efeito Glassmorphism
  
  `Dia 7` 
