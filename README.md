@@ -21,7 +21,7 @@
  `Dia 7` ✔️
  Criar um Contador
  
- `Dia 8` 
+ `Dia 8` ✔️
  Criar um Toggle para alterar tema para Claro e Escuro
  
  `Dia 9` 
