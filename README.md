@@ -24,7 +24,7 @@
  `Dia 8` ✔️
  Criar um Toggle para alterar tema para Claro e Escuro
  
- `Dia 9` 
+ `Dia 9` ✔️
  Criar uma Animação de Loading
  
  `Dia 10` 
