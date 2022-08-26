@@ -27,7 +27,7 @@
  `Dia 9` ✔️
  Criar uma Animação de Loading
  
- `Dia 10` 
+ `Dia 10` ✔️
  Utilizar uma Lib Particle.js do JavaScript
  
  `Dia 11` 
