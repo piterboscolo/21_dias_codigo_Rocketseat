@@ -30,7 +30,7 @@
  `Dia 10` ✔️
  Utilizar uma Lib Particle.js do JavaScript
  
- `Dia 11` 
+ `Dia 11` ✔️
  Criar um Layout de formulário de login
  
  `Dia 12` 
