@@ -33,7 +33,7 @@
  `Dia 11` ✔️
  Criar um Layout de formulário de login
  
- `Dia 12` 
+ `Dia 12` ✔️
  Criar uma Galeria de imagens
  
  `Dia 13` 
