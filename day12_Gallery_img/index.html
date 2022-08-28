@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Galeria de Imagens</title>
+    <style>
+        body{
+            background-color: black;
+            height: 90vh;
+            position: relative;
+        }
+
+        .galeria{
+            width: 80%;
+            height: 60%;
+            display: flex;
+            position: absolute;
+            gap: 7px;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);          
+        }
+
+        .galeria img{
+            height: 100%;
+            flex: 1;
+            object-fit: cover;
+            overflow: hidden;
+            cursor: pointer;
+            border-radius: 10px;
+            transition: all 0.3;
+        }
+
+        .galeria img:hover{
+            flex: 4;
+    
+        }
+    </style>
+</head>
+<body>
+    <div class="galeria">
+        <img src="imagens/001.jpg" alt="">
+        <img src="imagens/002.jpg" alt="">
+        <img src="imagens/003.jpg" alt="">
+        <img src="imagens/004.jpg" alt="">
+        <img src="imagens/005.jpg" alt="">
+    </div>
+</body>
+</html>
