@@ -36,7 +36,7 @@
  `Dia 12` ✔️
  Criar uma Galeria de imagens
  
- `Dia 13` 
+ `Dia 13` ✔️
  Criar um Menu responsivo
  
  `Dia 14` 
