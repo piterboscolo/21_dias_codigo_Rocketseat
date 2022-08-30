@@ -39,7 +39,7 @@
  `Dia 13` ✔️
  Criar um Menu responsivo
  
- `Dia 14` 
+ `Dia 14` ✔️
  Criar um Formulário de Quizzes
  
  
