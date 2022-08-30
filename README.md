@@ -42,4 +42,25 @@
  `Dia 14` ✔️
  Criar um Formulário de Quizzes
  
+ `Dia 15` 
+ Criar um Site de Produtos e-commerce
+ 
+ `Dia 16` 
+ Criar um Site com API pública
+ 
+ `Dia 17` 
+ Criar um Site da captura de eventos do teclado
+ 
+ `Dia 18` 
+ Criar um Gerador de senhas aleatórias
+ 
+ `Dia 19` 
+ Criar um Site de img aleatórias com API do Unsplash
+ 
+ `Dia 20` 
+ Criar um Site de Emoji picker
+ 
+ `Dia 21` 
+ Criar uma página para meu portfólio
+ 
  
