@@ -42,7 +42,7 @@
  `Dia 14` ✔️
  Criar um Formulário de Quizzes
  
- `Dia 15` 
+ `Dia 15` ✔️
  Criar um Site de Produtos e-commerce
  
  `Dia 16` 
