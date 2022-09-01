@@ -45,7 +45,7 @@
  `Dia 15` ✔️
  Criar um Site de Produtos e-commerce
  
- `Dia 16` 
+ `Dia 16` ✔️
  Criar um Site com API pública
  
  `Dia 17` 
