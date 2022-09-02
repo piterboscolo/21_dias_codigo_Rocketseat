@@ -48,7 +48,7 @@
  `Dia 16` ✔️
  Criar um Site com API pública
  
- `Dia 17` 
+ `Dia 17` ✔️
  Criar um Site da captura de eventos do teclado
  
  `Dia 18` 
