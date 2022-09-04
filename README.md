@@ -54,7 +54,7 @@
  `Dia 18` ✔️
  Criar um Gerador de senhas aleatórias
  
- `Dia 19` 
+ `Dia 19` ✔️
  Criar um Site de img aleatórias com API do Unsplash
  
  `Dia 20` 
