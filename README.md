@@ -51,7 +51,7 @@
  `Dia 17` ✔️
  Criar um Site da captura de eventos do teclado
  
- `Dia 18` 
+ `Dia 18` ✔️
  Criar um Gerador de senhas aleatórias
  
  `Dia 19` 
