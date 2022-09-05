@@ -57,7 +57,7 @@
  `Dia 19` ✔️
  Criar um Site de img aleatórias com API do Unsplash
  
- `Dia 20` 
+ `Dia 20` ✔️
  Criar um Site de Emoji picker
  
  `Dia 21` 
