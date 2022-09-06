@@ -60,7 +60,7 @@
  `Dia 20` ✔️
  Criar um Site de Emoji picker
  
- `Dia 21` 
+ `Dia 21` ✔️
  Criar uma página para meu portfólio
  
  
